@@ -18,6 +18,7 @@ public class JavaApplication2 {
         System.out.println("hello world");        
         System.out.println("add line 2");       
         System.out.println("add line 3");
+        System.out.println("i am master");
     }
     
 }
